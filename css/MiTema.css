@@ -815,7 +815,7 @@ div#first{
 
 
 .mifondo {
-    background : transparent url(images/cubo.jpg) !important;
+    background : transparent url(images/cubo.jpg) no-repeat !important;
     background-size : cover;
  }
 

@@ -942,7 +942,7 @@ input[type="password"]:focus {
 .span-texto {
     display: block;
     position: absolute;
-    left: 35%;
+    left: 25%;
     top: -2px;
     background-color: #fff;
     text-align: center;
@@ -960,7 +960,7 @@ input[type="password"]:focus {
 	height: 120px;
 	width: 120px;
 	top: -60px;
-	left: 111px;
+	left: 30%;
 	border-radius: 50%;
 	background: #ffffff;
 	padding: 10px;
@@ -975,8 +975,10 @@ input[type="password"]:focus {
 }
 
 .user_card {
-	height: 430px;
-	width: 350px;
+	/*height: 430px;
+	width: 350px;*/
+	height: auto;
+	width: auto;
 	margin-top: 30px;
 	margin-bottom: auto;
 	background: #ffffff;
